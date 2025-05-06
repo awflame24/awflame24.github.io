@@ -6,7 +6,7 @@ subtitle: <a href='#'>서울대학교</a> | <a href='#'>자유전공학부</a>
 
 profile:
   align: right
-  image: jeremy-bishop-EwKXn5CapA4-unsplash.jpg
+  image: richard-loader-unsplash.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>보기만 해도 힘이 나는 나무</p>
