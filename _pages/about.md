@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>서울대학교|자유전공학부</a>
+subtitle: <a href='#'>서울대학교</a> | <a href='#'>자유전공학부</a>
 
 profile:
   align: right
