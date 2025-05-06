@@ -6,7 +6,7 @@ subtitle: <a href='#'>서울대학교 자유전공학부</a>
 
 profile:
   align: right
-  image: jeremy-bishop-EwKXn5CapA4-unsplash.jpg
+  image: [jeremy-bishop-EwKXn5CapA4-unsplash.jpg](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EB%85%B9%EC%83%89-%EC%9E%8E%EC%9D%B4-%EB%AC%B4%EC%84%B1%ED%95%9C-%EB%82%98%EB%AC%B4%EB%A5%BC-%ED%86%B5%EA%B3%BC%ED%95%98%EB%8A%94-%ED%83%9C%EC%96%91-%EB%B9%9B-EwKXn5CapA4)
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>보기만 해도 힘이 되는 나무</p>
