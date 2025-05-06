@@ -72,7 +72,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-my-first-jekyll-blog-post",
+            },{id: "post-대한민국-자연명소",
+        
+          title: "대한민국 자연명소",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/natural-attraction/";
+          
+        },
+      },{id: "post-markdown-문법-기초",
+        
+          title: "Markdown 문법 기초",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/markdown/";
+          
+        },
+      },{id: "post-my-first-jekyll-blog-post",
         
           title: "My first Jekyll blog post",
         
